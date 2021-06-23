@@ -1,7 +1,7 @@
 ####Provider Variables
 aws_region = "us-east-1"
-access_key = "AKIAYEK2YXTMSU2LX36W"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 
 #####S3 Variables
 kms_key_deletion_window_in_days = "20"
